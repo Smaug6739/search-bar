@@ -1,0 +1,26 @@
+{
+  "name": "search-bar",
+  "version": "1.0.0",
+  "description": "A search bar written in JS, HTML and CSS without framework",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smaug6739/search-bar.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "search",
+    "navigation"
+  ],
+  "author": "Smaug6739",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smaug6739/search-bar/issues"
+  },
+  "homepage": "https://github.com/Smaug6739/search-bar#readme"
+}
